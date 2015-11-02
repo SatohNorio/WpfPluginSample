@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPluginSample", "WpfPluginSample\WpfPluginSample.csproj", "{48AC7A6A-FCBB-4CE3-9405-E875656D5F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePluin", "SamplePluin\SamplePluin.csproj", "{80458FED-6BBD-4C59-8987-75B1F910C1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1BE348A3-712E-4448-94B6-0EDE7A17BECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AC7A6A-FCBB-4CE3-9405-E875656D5F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AC7A6A-FCBB-4CE3-9405-E875656D5F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AC7A6A-FCBB-4CE3-9405-E875656D5F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AC7A6A-FCBB-4CE3-9405-E875656D5F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80458FED-6BBD-4C59-8987-75B1F910C1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80458FED-6BBD-4C59-8987-75B1F910C1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80458FED-6BBD-4C59-8987-75B1F910C1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80458FED-6BBD-4C59-8987-75B1F910C1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE348A3-712E-4448-94B6-0EDE7A17BECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE348A3-712E-4448-94B6-0EDE7A17BECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE348A3-712E-4448-94B6-0EDE7A17BECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE348A3-712E-4448-94B6-0EDE7A17BECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
